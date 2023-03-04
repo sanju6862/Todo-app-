@@ -1,4 +1,4 @@
-# ToDoTimer
+# Demo
 ![](img/intro16_9.gif)
 
 
