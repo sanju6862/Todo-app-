@@ -1,0 +1,28 @@
+ 
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.form-actions button,
+.btn {
+  background:  #C4C1E0;
+  font: inherit;
+  border: 1px solid #7C73E6;
+  border-radius: 3px;
+  padding: 0.25rem 1rem;
+  margin-right: 0.5rem;
+  margin-top: 3px;
+  box-shadow: 1px 1px 5px gray;
+  cursor: pointer;
+}
+
+.form-actions button:hover,
+.form-actions button:active,
+.btn:hover,
+.btn:active {
+  background: #7C73E6;
+  color: white
+}
